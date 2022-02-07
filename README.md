@@ -2,7 +2,7 @@
 
 I am an Electronics and Embedded Systems enthusiast driven towards making things simple and best! My core expertise lies in the field of development of firmware for CPUs and MCUs. My passion for _Embedded Systems_ lies with churning-out innovative ideas and making them come true with elegant real-life implementation.
 
-I believe Open-Source is a big revolution and wish to be part of it. I am also a maintainer of an [Open-Sourced Embedded Systems Framework Repository](../../../cyancore)
+I believe Open-Source is a big revolution and wish to be part of it. I am also the creator and a maintainer of an [Open-Source Embedded Systems Framework - Cyancore](../../../cyancore)
 
 ---
 <p align="center">
